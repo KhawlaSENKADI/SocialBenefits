@@ -1,0 +1,13 @@
+import React from 'react'
+
+export const User = [
+   {
+     name:"Mohamed MO",
+     email:"mohamedmo@gmail.com",
+     job:"Enseignant",
+     picture:"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAMAAADQmBKKAAAAMFBMVEXk5ueutLfn6erGysyrsbTh4+TY29zU19m+w8XJzc+nrrGyuLu7wMO1u73M0NLP09SO8U9kAAADKElEQVR4nO2a27ajIAxAMXJTsP7/3x601tOZ1kJSE5k1bF983CuEW4JSjUaj0Wg0Go1Go9FoNP53AJQy6Vt/LgfAzr2PCe8HZy52AmN9pxPdwvozWHWZE8AwbS6/aB3dNWECM7zY3BmDu8AI7PReZw3TZMSVhvFQZ2UWNorH4dmCNEjqmA/DtRt5uRiZkNVZjcSEphIfwRgV+iSjXsIIhnz+7EaW3whsZr7/iWEXMsUDtoaIPY2gLx+whZF70AxqwBKR1wc8LkBLXrMKGaROYuIcM7hhA8QcIsAHiHcHsfgApTHjW4uwc/7OyDhmkeCTTkZsaU2YYwuRTQi3je0ELh81U1IowZVEtJzmFELvG3c01w0ESJMsCd24hFBHoZqFuBai+iJUXQ5VN8tqW4eqW6nr28uIuz3jqbq281B9J8baztT13TowpZhdiPV2T5hngbXaAB4dIMfpQ6h+cKb0QnX1ocKS8APNdyd7AHNlNUbUoGmZtlDxoMnUqcuN5LodZcujZq53PgElU03QRy2TP9sv6yV9Ev3n2c929TkEXGU9VwWqP+hK624Wt3kovaaS1tPtuucNYNLA6T1Qy29/4cuGuxPYm49xmqbo+5ut4T0KwGax/1yqYox1bl5xzlpzkdbyYsjOQwxhT54tk0KI/WxlHxOlsLg+hvFg1ie9sZu8UD6tMkEfuTxb6c7PhnnKATgf8jI7Y4gznxIo22t0QUaP0bE4pfUmdqSC1bJ2n6+j5kCrVm1Ow6m7LSiXPf/klMKJSh9fdyGUTjoigSFWg1+VpjOusfD1aD0rnVDdyz42wxl13wUJSh6bIfmmrA/ui6l+xEgv8VEKeAWQL2zk1kbWaCLtJWw+6y2J4HPW6vPWCN/+YMqf3QgbI6B2ooqNcLU+5NtAkhFq0cZVNokgejKsCf1LuY8T8UFUIIn9ebRR4aAxz/gnCnufIhm9UtaYkQtQYYgoXUMqJe1YoSm2UVBap744oRHyW5pcSi8UpLXoiBW0QxiPZe/JCgmt0g/GXBIB+7njL6HcPQ3ddf6S7OsrO2pZclu+7YXJtkVAmJxPo9FoNBr/Gj+8rij+HndLIAAAAABJRU5ErkJggg==",
+     grade:"Enseignant",
+     situation:"Marié",
+     responsabilite:"Acune",
+    },
+]
